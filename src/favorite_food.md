@@ -1,3 +1,3 @@
 # favorite food
 
-apple
+ringogit add src/favorite_food.md
